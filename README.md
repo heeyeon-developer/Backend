@@ -10,3 +10,4 @@ Record that I study Backend
 -> [[ADsP] 시계열분석](https://keep-daily-story.tistory.com/21) <br>
 -> [[ADsP] 데이터마이닝이란](https://keep-daily-story.tistory.com/22) <br>
 -> [[ADsP] 군집분석](https://keep-daily-story.tistory.com/manage/posts/) <br>
+-> [[ADsP] 앙상블분석](https://keep-daily-story.tistory.com/24) <br>

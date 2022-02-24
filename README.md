@@ -11,5 +11,5 @@ Record that I study Backend
 -> [[ADsP] 데이터마이닝이란](https://keep-daily-story.tistory.com/22) <br>
 -> [[ADsP] 군집분석](https://keep-daily-story.tistory.com/manage/posts/) <br>
 -> [[ADsP] 앙상블분석](https://keep-daily-story.tistory.com/24) <br>
--> [[ADsP] 기출문제 26,27 ](https://keep-daily-story.tistory.com/25) <bf>
-  
+-> [[ADsP] 기출문제 26,27 오답정리](https://keep-daily-story.tistory.com/25) <br>
+-> [[ADsP] 기출문제 28,29 오답정리](https://keep-daily-story.tistory.com/26) <br>

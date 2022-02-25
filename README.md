@@ -13,3 +13,4 @@ Record that I study Backend
 -> [[ADsP] 앙상블분석](https://keep-daily-story.tistory.com/24) <br>
 -> [[ADsP] 기출문제 26,27 오답정리](https://keep-daily-story.tistory.com/25) <br>
 -> [[ADsP] 기출문제 28,29 오답정리](https://keep-daily-story.tistory.com/26) <br>
+-> [[ADsP] 기출문제 30,31 오답정리](https://keep-daily-story.tistory.com/27) <br>

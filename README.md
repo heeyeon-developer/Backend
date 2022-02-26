@@ -14,3 +14,5 @@ Record that I study Backend
 -> [[ADsP] 기출문제 26,27 오답정리](https://keep-daily-story.tistory.com/25) <br>
 -> [[ADsP] 기출문제 28,29 오답정리](https://keep-daily-story.tistory.com/26) <br>
 -> [[ADsP] 기출문제 30,31 오답정리](https://keep-daily-story.tistory.com/27) <br>
+-> [[ADsP] 2022년 2월 26일 ADsP 32회 시험 후기](https://keep-daily-story.tistory.com/28) <br>
+

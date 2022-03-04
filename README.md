@@ -16,4 +16,5 @@ Record that I study Backend
 -> [[ADsP] 기출문제 30,31 오답정리](https://keep-daily-story.tistory.com/27) <br>
 -> [[ADsP] 2022년 2월 26일 ADsP 32회 시험 후기](https://keep-daily-story.tistory.com/28) <br>
 -> [[정보처리기사] 실기 일정확인과 계획](https://keep-daily-story.tistory.com/29) <br>
+-> [[정보처리기사] 실기 계획표](https://keep-daily-story.tistory.com/30) <br>
 

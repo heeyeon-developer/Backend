@@ -19,3 +19,4 @@ Record that I study Backend
 -> [[정보처리기사] 실기 계획표](https://keep-daily-story.tistory.com/30) <br>
 -> [[JAVA] Static이란?](https://keep-daily-story.tistory.com/31) <br>
 -> [[JAVA] TextGame 히스토리 1](https://keep-daily-story.tistory.com/manage/posts/) <br>
+-> [[JAVA] 추상클래스 & 인터페이스](https://keep-daily-story.tistory.com/33) <br>

@@ -21,4 +21,5 @@ Record that I study Backend
 -> [[JAVA] TextGame 히스토리 1](https://keep-daily-story.tistory.com/manage/posts/) <br>
 -> [[JAVA] 추상클래스 & 인터페이스](https://keep-daily-story.tistory.com/33) <br>
 -> [[정처기-실기] 3주 플랜 세우기](https://keep-daily-story.tistory.com/34) <br>
+-> [[정처기-실기] 합격 후기](https://keep-daily-story.tistory.com/35)<br>
 ->

@@ -24,3 +24,5 @@ Record that I study Backend
 -> [[정처기-실기] 합격 후기](https://keep-daily-story.tistory.com/35)<br>
 -> [[네이버 부스트캠프] 지원서 작성](https://keep-daily-story.tistory.com/36)<br>
 -> [[네이버 부스트캠프] 1차 코딩테스트 후기](https://keep-daily-story.tistory.com/37)<br>
+-> [[네이버 부스트캠프] 2차 코딩테스트 후기](https://keep-daily-story.tistory.com/38)<br>
+-> 
